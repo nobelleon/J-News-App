@@ -1,17 +1,15 @@
 # Flutter - Movies & Tv Shows App
 
-Movies & Tv Shows App Made in Flutter.
+J News App Made in Flutter.
 
-![Movies TvShows-horz](https://user-images.githubusercontent.com/76748114/213973341-87715e79-23c8-4288-8bc6-696a081a468e.jpg)
+![J_News-horz](https://github.com/nobelleon/J-News-App/assets/76748114/53da59f2-8437-4b1d-9e21-0f69a05fd24b)
 
 ## Features
 
-- Get movies from TMDb JSON API
+- Get news from NEWSAPI.org JSON API
 - RxDart
 - Used BloC design patterns
 - GetX
-- Youtube Player
-
 
 ## Plugins :
 
@@ -31,9 +29,11 @@ Install my-project at pubspec.yaml
   material_design_icons_flutter: ^4.0.5955
   fluttericon: ^1.0.7
 ```
-    
-## Documentation
 
-Access The movie DB [API Docs](https://developers.themoviedb.org/) to get started.
+## Data Provider: https://newsapi.org/
+    
+## API Documentation
+
+Access News [API Docs](https://newsapi.org/docs) to get started.
 
 
