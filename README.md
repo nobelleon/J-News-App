@@ -10,6 +10,9 @@ J News App Made in Flutter.
 - RxDart
 - Used BloC design patterns
 - GetX
+- Call Demo
+- Chat Demo
+- Video Call Demo
 
 ## Plugins :
 
