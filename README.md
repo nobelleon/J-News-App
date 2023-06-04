@@ -1,4 +1,4 @@
-# Flutter - J-News App
+# Flutter - J News App
 
 J News App Made in Flutter.
 
