@@ -1,4 +1,4 @@
-# Flutter - Movies & Tv Shows App
+# Flutter - J-News App
 
 J News App Made in Flutter.
 
