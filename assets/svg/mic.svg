@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>mic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="answer-calll" transform="translate(-324.000000, -521.000000)">
+            <g id="mic" transform="translate(325.000000, 522.000000)">
+                <circle id="Oval-11" stroke="#FFFFFF" stroke-width="2" cx="28" cy="28" r="28"></circle>
+                <g transform="translate(19.000000, 12.000000)" id="Shape">
+                    <path d="M9.5,0 C7.25141209,0 5.42857143,1.82284066 5.42857143,4.07142857 L5.42857143,14.9285714 C5.42857143,17.1771593 7.25141209,19 9.5,19 C11.7485879,19 13.5714286,17.1771593 13.5714286,14.9285714 L13.5714286,4.07142857 C13.5714286,1.82284066 11.7485879,0 9.5,0 Z" fill="#FFFFFF"></path>
+                    <path d="M19,12.2142857 L19,14.9285714 C19,20.1752765 14.7467051,24.4285713 9.5,24.4285713 C4.25329493,24.4285713 -1.77635684e-15,20.1752765 -1.77635684e-15,14.9285714 L-1.77635684e-15,12.2142857" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="9.5" y1="24.4285714" x2="9.5" y2="29.8571429" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="4.07142857" y1="29.8571429" x2="14.9285714" y2="29.8571429" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
