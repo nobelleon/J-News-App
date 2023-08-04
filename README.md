@@ -1,5 +1,7 @@
 # Flutter - J News App
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
+
 J News App Made in Flutter.
 
 ![J_News-horz](https://github.com/nobelleon/J-News-App/assets/76748114/53da59f2-8437-4b1d-9e21-0f69a05fd24b)
