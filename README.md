@@ -8,7 +8,7 @@ J News App Made in Flutter.
 
 and this is my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7011164870242959360/?originTrackingId=P8q9w%2FBHSHSbm52kL%2FOU8Q%3D%3D) Demo J News App.
 
-## Features
+## Features 
 
 - Get news from NEWSAPI.org JSON API
 - RxDart
