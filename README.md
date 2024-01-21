@@ -7,7 +7,7 @@ J News App Made in Flutter.
 ![J_News-horz](https://github.com/nobelleon/J-News-App/assets/76748114/53da59f2-8437-4b1d-9e21-0f69a05fd24b)
 
 and this is my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7011164870242959360/?originTrackingId=P8q9w%2FBHSHSbm52kL%2FOU8Q%3D%3D) Demo J News App.
-
+ 
 ## Features 
 
 - Get news from NEWSAPI.org JSON API
